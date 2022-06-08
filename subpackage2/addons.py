@@ -1,4 +1,3 @@
-# from ..helper import is_board_completed
 from helper import is_board_completed
 
 
